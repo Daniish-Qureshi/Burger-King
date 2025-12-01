@@ -3,7 +3,7 @@
 A modern, responsive Burger King website clone built using HTML, CSS, and JavaScript.
 This project replicates Burger King’s official website with a clean, interactive, and mobile-friendly design. Perfect for learning front-end development and practicing responsive layouts.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://daniish-qureshi.github.io/Burger-King/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://burger-king-git-main-daniish-qureshis-projects.vercel.app/)
 
 ## Preview
 
